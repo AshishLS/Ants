@@ -1,0 +1,5 @@
+// Form hight, form width, number of ants, ant speed times of normal speed.
+800
+1000
+40
+2
