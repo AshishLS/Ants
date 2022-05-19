@@ -1,0 +1,9 @@
+D:\Home\Kata\Ants\Ants\bin\Debug\Ants.exe
+D:\Home\Kata\Ants\Ants\bin\Debug\Ants.pdb
+D:\Home\Kata\Ants\Ants\obj\Debug\Ants.csproj.AssemblyReference.cache
+D:\Home\Kata\Ants\Ants\obj\Debug\Ants.Form1.resources
+D:\Home\Kata\Ants\Ants\obj\Debug\Ants.Properties.Resources.resources
+D:\Home\Kata\Ants\Ants\obj\Debug\Ants.csproj.GenerateResource.cache
+D:\Home\Kata\Ants\Ants\obj\Debug\Ants.csproj.CoreCompileInputs.cache
+D:\Home\Kata\Ants\Ants\obj\Debug\Ants.exe
+D:\Home\Kata\Ants\Ants\obj\Debug\Ants.pdb
